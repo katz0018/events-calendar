@@ -43,3 +43,53 @@ td {
 .kosmos p {
   color: #666;
 }
+
+.island {
+  border-radius: 8px;
+  border: 1px solid #51603f;
+  background: #d1e0bf;
+}
+
+.island p {
+  color: #51603f;
+}
+
+.robert {
+  border-radius: 8px;
+  border: 1px solid #51603f;
+  background: #d1e0bf;
+}
+
+.robert p {
+  color: #51603f;
+}
+
+.india {
+  border-radius: 8px;
+  border: 1px solid #666;
+  background: #ccc;
+}
+
+.india p {
+  color: #666;
+}
+
+.death {
+  border-radius: 8px;
+  border: 1px solid #38448e;
+  background: #d2d6f0;
+}
+
+.death p {
+  color: #38448e;
+}
+
+.doctor {
+  border-radius: 8px;
+  border: 1px solid #38448e;
+  background: #d2d6f0;
+}
+
+.doctor p {
+  color: #38448e;
+}
