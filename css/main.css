@@ -14,87 +14,48 @@ td {
   vertical-align: top;
 }
 
-.vostok {
+.event {
   border-radius: 8px;
   border: 1px solid #666;
   background-color: #ccc;
-}
-
-.vostok p {
   color: #666;
 }
 
-.remembrance {
-  border-radius: 8px;
+.event-red {
   border: 1px solid #991919;
   background: #f2bcbc;
-}
-
-.remembrance p {
   color: #991919;
 }
 
-.kosmos {
-  border-radius: 8px;
-  border: 1px solid #666;
-  background-color: #ccc;
-}
-
-.kosmos p {
-  color: #666;
-}
-
-.island {
-  border-radius: 8px;
+.event-green {
   border: 1px solid #51603f;
   background-color: #d1e0bf;
-}
-
-.island p {
   color: #51603f;
 }
 
-.robert {
-  border-radius: 8px;
-  border: 1px solid #51603f;
-  background-color: #d1e0bf;
-}
-
-.robert p {
-  color: #51603f;
-}
-
-.india {
-  border-radius: 8px;
-  border: 1px solid #666;
-  background-color: #ccc;
-}
-
-.india p {
-  color: #666;
-}
-
-.death {
-  border-radius: 8px;
+.event-blue {
   border: 1px solid #38448e;
   background-color: #d2d6f0;
-}
-
-.death p {
-  color: #38448e;
-}
-
-.doctor {
-  border-radius: 8px;
-  border: 1px solid #38448e;
-  background-color: #d2d6f0;
-}
-
-.doctor p {
   color: #38448e;
 }
 
 .wrapper {
   border: solid 1px #ccc;
   background-color: #f2f2f2;
+}
+
+td {
+  height: 11em;
+}
+
+.wrapper {
+  min-width: 70em;
+}
+
+@media screen and only (min-width: 60em) {
+
+  .wrapper {
+    overflow: visible;
+  }
+
 }
