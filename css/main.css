@@ -17,7 +17,7 @@ td {
 .vostok {
   border-radius: 8px;
   border: 1px solid #666;
-  background: #ccc;
+  background-color: #ccc;
 }
 
 .vostok p {
@@ -37,7 +37,7 @@ td {
 .kosmos {
   border-radius: 8px;
   border: 1px solid #666;
-  background: #ccc;
+  background-color: #ccc;
 }
 
 .kosmos p {
@@ -47,7 +47,7 @@ td {
 .island {
   border-radius: 8px;
   border: 1px solid #51603f;
-  background: #d1e0bf;
+  background-color: #d1e0bf;
 }
 
 .island p {
@@ -57,7 +57,7 @@ td {
 .robert {
   border-radius: 8px;
   border: 1px solid #51603f;
-  background: #d1e0bf;
+  background-color: #d1e0bf;
 }
 
 .robert p {
@@ -67,7 +67,7 @@ td {
 .india {
   border-radius: 8px;
   border: 1px solid #666;
-  background: #ccc;
+  background-color: #ccc;
 }
 
 .india p {
@@ -77,7 +77,7 @@ td {
 .death {
   border-radius: 8px;
   border: 1px solid #38448e;
-  background: #d2d6f0;
+  background-color: #d2d6f0;
 }
 
 .death p {
@@ -87,9 +87,14 @@ td {
 .doctor {
   border-radius: 8px;
   border: 1px solid #38448e;
-  background: #d2d6f0;
+  background-color: #d2d6f0;
 }
 
 .doctor p {
   color: #38448e;
+}
+
+.wrapper {
+  border: solid 1px #ccc;
+  background-color: #f2f2f2;
 }
