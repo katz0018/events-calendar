@@ -1,3 +1,45 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+main {
+  background-color: #f2f2f2;
+}
+
 table {
   border-collapse: collapse;
+}
+
+td {
+  vertical-align: top;
+}
+
+.vostok {
+  border-radius: 8px;
+  border: 1px solid #666;
+  background: #ccc;
+}
+
+.vostok p {
+  color: #666;
+}
+
+.remembrance {
+  border-radius: 8px;
+  border: 1px solid #991919;
+  background: #f2bcbc;
+}
+
+.remembrance p {
+  color: #991919;
+}
+
+.kosmos {
+  border-radius: 8px;
+  border: 1px solid #666;
+  background: #ccc;
+}
+
+.kosmos p {
+  color: #666;
 }
