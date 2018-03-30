@@ -10,8 +10,8 @@ table {
   border-collapse: collapse;
 }
 
-td {
-  vertical-align: top;
+th {
+  border: 1px solid #ccc;
 }
 
 .event {
@@ -41,6 +41,8 @@ td {
 
 td {
   height: 10em;
+  border: 1px solid #666;
+  vertical-align: top;
 }
 
 table {
