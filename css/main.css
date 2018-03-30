@@ -44,11 +44,11 @@ td {
   background-color: #fff;
 }
 
-tr td {
+td {
   height: 9em;
 }
 
-.wrapper {
+table {
   min-width: 62em;
 }
 
