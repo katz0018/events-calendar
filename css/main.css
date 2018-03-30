@@ -17,7 +17,7 @@ td {
 .event {
   border-radius: 8px;
   border: 1px solid #666;
-  background-color: #ccc;
+  background-color: #f2f2f2;
   color: #666;
 }
 
@@ -41,19 +41,15 @@ td {
 
 .wrapper {
   border: solid 1px #ccc;
-  background-color: #f2f2f2;
+  background-color: #fff;
 }
 
-td {
-  height: 11em;
+tr td {
+  height: 9em;
 }
 
 .wrapper {
-  min-width: 70em;
-}
-
-ul {
-  margin: 0;
+  min-width: 62em;
 }
 
 @media screen and only (min-width: 60em) {
