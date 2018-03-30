@@ -1,5 +1,5 @@
 html {
-font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 main {
@@ -8,6 +8,7 @@ main {
 
 table {
   border-collapse: collapse;
+  min-width: 62em;
 }
 
 th {
@@ -43,16 +44,4 @@ td {
   height: 10em;
   border: 1px solid #333;
   vertical-align: top;
-}
-
-table {
-  min-width: 62em;
-}
-
-@media screen and only (min-width: 60em) {
-
-  table {
-    overflow: visible;
-  }
-
 }
