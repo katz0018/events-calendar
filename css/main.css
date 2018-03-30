@@ -3,7 +3,7 @@ html {
 }
 
 main {
-  background-color: #f2f2f2;
+  background-color: #fff;
 }
 
 table {
@@ -37,11 +37,6 @@ td {
   border: 1px solid #38448e;
   background-color: #d2d6f0;
   color: #38448e;
-}
-
-.wrapper {
-  border: solid 1px #ccc;
-  background-color: #fff;
 }
 
 td {
